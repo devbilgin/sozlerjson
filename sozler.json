@@ -1,12 +1,6 @@
 {
   "categories": [
     {
-      "id": "dini",
-      "name": "Dini Sözler",
-      "image": "book.circle.fill",
-      "isActive": true
-    },
-    {
       "id": "motivasyon",
       "name": "Motivasyon Sözleri", 
       "image": "flame.circle.fill",
@@ -35,34 +29,27 @@
       "name": "Hayat Sözleri",
       "image": "leaf.circle.fill",
       "isActive": true
+    },
+    {
+      "id": "ozlu",
+      "name": "Özlü Sözler",
+      "image": "quote.bubble.fill",
+      "isActive": true
+    },
+    {
+      "id": "basari",
+      "name": "Başarı Sözleri",
+      "image": "trophy.circle.fill",
+      "isActive": true
+    },
+    {
+      "id": "kitap",
+      "name": "Kitap Sözleri",
+      "image": "book.closed.circle.fill",
+      "isActive": true
     }
   ],
   "quotes": [
-    {
-      "text": "Allah'ın rahmeti, her şeyi kuşatmıştır.",
-      "category": "dini",
-      "author": "Kuran-ı Kerim"
-    },
-    {
-      "text": "Her zorlukla beraber bir kolaylık vardır.",
-      "category": "dini",
-      "author": "Kuran-ı Kerim"
-    },
-    {
-      "text": "Kim Allah'a ve Peygambere itaat ederse işte onlar, Allah'ın kendilerine nimet verdiği peygamberlerle, sıddıklarla, şehitlerle ve iyi kimselerle birliktedirler.",
-      "category": "dini",
-      "author": "Kuran-ı Kerim"
-    },
-    {
-      "text": "Sabır, imanın yarısıdır.",
-      "category": "dini",
-      "author": "Hz. Muhammed (s.a.v.)"
-    },
-    {
-      "text": "Cennet anaların ayakları altındadır.",
-      "category": "dini",
-      "author": "Hz. Muhammed (s.a.v.)"
-    },
     {
       "text": "Başarı, her gün tekrarlanan küçük çabaların toplamıdır.",
       "category": "motivasyon",
@@ -187,6 +174,106 @@
       "text": "Hayatta en değerli olan zamandır. Kime hediye ettiğine dikkat et.",
       "category": "hayat",
       "author": "Steve Jobs"
+    },
+    {
+      "text": "Düşünceleriniz olumlu olursa, başınıza gelen olaylar da olumlu olur.",
+      "category": "ozlu",
+      "author": "Konfüçyus"
+    },
+    {
+      "text": "Hayat, kendini keşfetme yolculuğudur.",
+      "category": "ozlu",
+      "author": "Sokrates"
+    },
+    {
+      "text": "En büyük zafer, insanın kendini yenmesidir.",
+      "category": "ozlu",
+      "author": "Platon"
+    },
+    {
+      "text": "Mutluluğun sırrı özgürlüktür, özgürlüğün sırrı cesarettir.",
+      "category": "ozlu",
+      "author": "Thucydides"
+    },
+    {
+      "text": "Bilgi güçtür.",
+      "category": "ozlu",
+      "author": "Francis Bacon"
+    },
+    {
+      "text": "Başarı bir yolculuktur, bir varış noktası değil.",
+      "category": "basari",
+      "author": "Arthur Ashe"
+    },
+    {
+      "text": "Başarının sırrı, başlamaktır.",
+      "category": "basari",
+      "author": "Mark Twain"
+    },
+    {
+      "text": "Başarı, hazırlık ile fırsat buluştuğunda ortaya çıkar.",
+      "category": "basari",
+      "author": "Bobby Unser"
+    },
+    {
+      "text": "Her büyük başarı, küçük başlangıçlarla olur.",
+      "category": "basari",
+      "author": "Og Mandino"
+    },
+    {
+      "text": "Başarının anahtarı, asla vazgeçmemektir.",
+      "category": "basari",
+      "author": "Winston Churchill"
+    },
+    {
+      "text": "Bir kitap, yeni bir hayatın kapısını açan anahtardır.",
+      "category": "kitap",
+      "author": "Kafka"
+    },
+    {
+      "text": "Kitaplar, ruhun ilacıdır.",
+      "category": "kitap",
+      "author": "Voltaire"
+    },
+    {
+      "text": "Okumak, düşünceye kanat takar.",
+      "category": "kitap",
+      "author": "John Ruskin"
+    },
+    {
+      "text": "İyi kitaplar, en iyi arkadaşlardır.",
+      "category": "kitap",
+      "author": "William Shakespeare"
+    },
+    {
+      "text": "Bir kitap bin öğretmene bedeldir.",
+      "category": "kitap",
+      "author": "Çin Atasözü"
+    },
+    {
+      "text": "Zaman en iyi öğretmendir, ne yazık ki bütün öğrencilerini öldürür.",
+      "category": "ozlu",
+      "author": "Hector Berlioz"
+    },
+    {
+      "text": "Başarı, düştükten sonra bir kez daha ayağa kalkmaktır.",
+      "category": "basari",
+      "author": "Vince Lombardi"
+    },
+    {
+      "text": "Okumak, zihnin egzersizidir.",
+      "category": "kitap",
+      "author": "Richard Steele"
+    },
+    {
+      "text": "Başarı, her gün biraz daha ilerlemektir.",
+      "category": "basari",
+      "author": "Maxwell Maltz"
+    },
+    {
+      "text": "Kitaplar, zamanın dalgalarında yolculuk eden düşünce gemileridir.",
+      "category": "kitap",
+      "author": "Francis Bacon"
     }
   ]
 }
