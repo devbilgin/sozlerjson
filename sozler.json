@@ -1,0 +1,192 @@
+{
+  "categories": [
+    {
+      "id": "dini",
+      "name": "Dini Sözler",
+      "image": "book.circle.fill",
+      "isActive": true
+    },
+    {
+      "id": "motivasyon",
+      "name": "Motivasyon Sözleri", 
+      "image": "flame.circle.fill",
+      "isActive": true
+    },
+    {
+      "id": "ask",
+      "name": "Aşk Sözleri",
+      "image": "heart.circle.fill",
+      "isActive": true
+    },
+    {
+      "id": "ataturk", 
+      "name": "Atatürk Sözleri",
+      "image": "star.circle.fill",
+      "isActive": true
+    },
+    {
+      "id": "dostluk",
+      "name": "Dostluk Sözleri",
+      "image": "person.2.circle.fill",
+      "isActive": true
+    },
+    {
+      "id": "hayat",
+      "name": "Hayat Sözleri",
+      "image": "leaf.circle.fill",
+      "isActive": true
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Allah'ın rahmeti, her şeyi kuşatmıştır.",
+      "category": "dini",
+      "author": "Kuran-ı Kerim"
+    },
+    {
+      "text": "Her zorlukla beraber bir kolaylık vardır.",
+      "category": "dini",
+      "author": "Kuran-ı Kerim"
+    },
+    {
+      "text": "Kim Allah'a ve Peygambere itaat ederse işte onlar, Allah'ın kendilerine nimet verdiği peygamberlerle, sıddıklarla, şehitlerle ve iyi kimselerle birliktedirler.",
+      "category": "dini",
+      "author": "Kuran-ı Kerim"
+    },
+    {
+      "text": "Sabır, imanın yarısıdır.",
+      "category": "dini",
+      "author": "Hz. Muhammed (s.a.v.)"
+    },
+    {
+      "text": "Cennet anaların ayakları altındadır.",
+      "category": "dini",
+      "author": "Hz. Muhammed (s.a.v.)"
+    },
+    {
+      "text": "Başarı, her gün tekrarlanan küçük çabaların toplamıdır.",
+      "category": "motivasyon",
+      "author": "Robert Collier"
+    },
+    {
+      "text": "Hayallerinizin büyüklüğü, başarınızın habercisidir.",
+      "category": "motivasyon",
+      "author": "Napoleon Hill"
+    },
+    {
+      "text": "Başarı son değil, başarısızlık da ölümcül değildir. Önemli olan devam etme cesaretinizdir.",
+      "category": "motivasyon",
+      "author": "Winston Churchill"
+    },
+    {
+      "text": "Yapamayacağını düşündüğün her şey, seni başarıdan uzaklaştırır.",
+      "category": "motivasyon",
+      "author": "Walt Disney"
+    },
+    {
+      "text": "Hiçbir şey imkansız değildir, kelimenin kendisi 'Mümkün' diyor!",
+      "category": "motivasyon",
+      "author": "Audrey Hepburn"
+    },
+    {
+      "text": "Aşk, iki ruhun birbirinde kendini bulmasıdır.",
+      "category": "ask",
+      "author": "Mevlana"
+    },
+    {
+      "text": "Sevmek, karşındakinin mutluluğunu kendi mutluluğundan üstün tutmaktır.",
+      "category": "ask",
+      "author": "Tolstoy"
+    },
+    {
+      "text": "Aşk bir güneştir. Karşısında akıl bir gölgedir sadece.",
+      "category": "ask",
+      "author": "Mevlana"
+    },
+    {
+      "text": "Seni sevmek, güneşi özlemeye benzer; sensiz her yer karanlık.",
+      "category": "ask",
+      "author": "Victor Hugo"
+    },
+    {
+      "text": "Aşk öyle engin bir denizdir ki, ne başlangıcı ne de sonu vardır.",
+      "category": "ask",
+      "author": "Mevlana"
+    },
+    {
+      "text": "Hayatta en hakiki mürşit ilimdir.",
+      "category": "ataturk",
+      "author": "Mustafa Kemal Atatürk"
+    },
+    {
+      "text": "Bir ulus sanattan ve sanatçıdan yoksunsa, tam bir hayata sahip olamaz.",
+      "category": "ataturk",
+      "author": "Mustafa Kemal Atatürk"
+    },
+    {
+      "text": "Egemenlik verilmez, alınır.",
+      "category": "ataturk",
+      "author": "Mustafa Kemal Atatürk"
+    },
+    {
+      "text": "Beni görmek demek mutlaka yüzümü görmek demek değildir. Benim fikirlerimi, benim duygularımı anlıyorsanız ve hissediyorsanız bu yeterlidir.",
+      "category": "ataturk",
+      "author": "Mustafa Kemal Atatürk"
+    },
+    {
+      "text": "Vatanını en çok seven, görevini en iyi yapandır.",
+      "category": "ataturk",
+      "author": "Mustafa Kemal Atatürk"
+    },
+    {
+      "text": "Gerçek arkadaşlık iki bedende bir ruhtur.",
+      "category": "dostluk",
+      "author": "Aristoteles"
+    },
+    {
+      "text": "Dostluk, aynı ruhun iki ayrı bedende yaşamasıdır.",
+      "category": "dostluk",
+      "author": "Hz. Ali"
+    },
+    {
+      "text": "Dost kara günde belli olur.",
+      "category": "dostluk",
+      "author": "Türk Atasözü"
+    },
+    {
+      "text": "Güven bir ayna gibidir, bir kez çatladı mı, hep çizik gösterir.",
+      "category": "dostluk",
+      "author": "William Shakespeare"
+    },
+    {
+      "text": "Dostlarını güldüren, kendine cennet hazırlar.",
+      "category": "dostluk",
+      "author": "Mevlana"
+    },
+    {
+      "text": "Hayat, bisiklete binmek gibidir. Dengenizi korumak için hareket etmeye devam etmelisiniz.",
+      "category": "hayat",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "Mutluluğu tatmanın tek çaresi, onu paylaşmaktır.",
+      "category": "hayat",
+      "author": "Lord Byron"
+    },
+    {
+      "text": "Hayat, yaşanması gereken en güzel armağandır.",
+      "category": "hayat",
+      "author": "Sokrates"
+    },
+    {
+      "text": "Dünya bir kitaptır ve seyahat etmeyenler hep aynı sayfayı okurlar.",
+      "category": "hayat",
+      "author": "St. Augustine"
+    },
+    {
+      "text": "Hayatta en değerli olan zamandır. Kime hediye ettiğine dikkat et.",
+      "category": "hayat",
+      "author": "Steve Jobs"
+    }
+  ]
+}
