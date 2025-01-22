@@ -274,6 +274,251 @@
       "text": "Kitaplar, zamanın dalgalarında yolculuk eden düşünce gemileridir.",
       "category": "kitap",
       "author": "Francis Bacon"
+    },
+    {
+      "text": "Zorluklar, başarının değerini artıran süslerdir.",
+      "category": "motivasyon",
+      "author": "Moliere"
+    },
+    {
+      "text": "İnancınız varsa, her şey mümkündür.",
+      "category": "motivasyon",
+      "author": "Paulo Coelho"
+    },
+    {
+      "text": "Bugün yapabileceğini yarına bırakma.",
+      "category": "motivasyon",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "text": "Her başarısızlık, yeni bir başlangıçtır.",
+      "category": "motivasyon",
+      "author": "Henry Ford"
+    },
+    {
+      "text": "Hayallerinizin peşinden koşmaktan asla vazgeçmeyin.",
+      "category": "motivasyon",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "Başarı, düşe kalka öğrenilen bir danstır.",
+      "category": "motivasyon",
+      "author": "Malcolm Forbes"
+    },
+    {
+      "text": "Kendine inan, gerisi kendiliğinden gelir.",
+      "category": "motivasyon",
+      "author": "Marcus Garvey"
+    },
+    {
+      "text": "Her gün yeni bir başlangıçtır.",
+      "category": "motivasyon",
+      "author": "T.S. Eliot"
+    },
+    {
+      "text": "Azim, başarının yakıtıdır.",
+      "category": "motivasyon",
+      "author": "Napoleon Hill"
+    },
+    {
+      "text": "Engeller, vazgeçmek için değil aşmak içindir.",
+      "category": "motivasyon",
+      "author": "Kurt Cobain"
+    },
+    {
+      "text": "Başarı, hazırlık ile fırsatın buluştuğu andır.",
+      "category": "motivasyon",
+      "author": "Zig Ziglar"
+    },
+    {
+      "text": "Her şey zihinde başlar.",
+      "category": "motivasyon",
+      "author": "Buddha"
+    },
+    {
+      "text": "İnanmak, başarmanın yarısıdır.",
+      "category": "motivasyon",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "text": "Yarının bugünden daha iyi olacağına inan.",
+      "category": "motivasyon",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "text": "Aşk, ruhun güneşidir.",
+      "category": "ask",
+      "author": "William Shakespeare"
+    },
+    {
+      "text": "Sevgi, paylaştıkça çoğalan tek şeydir.",
+      "category": "ask",
+      "author": "Antoine de Saint-Exupéry"
+    },
+    {
+      "text": "Aşk, iki yalnızlığın birbirini selamlamasıdır.",
+      "category": "ask",
+      "author": "Rainer Maria Rilke"
+    },
+    {
+      "text": "Sevmek, anlamaktır.",
+      "category": "ask",
+      "author": "Fyodor Dostoyevski"
+    },
+    {
+      "text": "Aşk, hayatın ta kendisidir.",
+      "category": "ask",
+      "author": "John Lennon"
+    },
+    {
+      "text": "Sevgi, her şeyi affeder.",
+      "category": "ask",
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "text": "Aşk, ruhun şiiridir.",
+      "category": "ask",
+      "author": "Percy Bysshe Shelley"
+    },
+    {
+      "text": "Sevgi, zamanla büyüyen tek hazinedir.",
+      "category": "ask",
+      "author": "Pablo Neruda"
+    },
+    {
+      "text": "Aşk, kalbin gözüyle görmektir.",
+      "category": "ask",
+      "author": "Platon"
+    },
+    {
+      "text": "Sevmek, paylaşmaktır.",
+      "category": "ask",
+      "author": "Antoine de Saint-Exupéry"
+    },
+    {
+      "text": "Aşk, ruhun müziğidir.",
+      "category": "ask",
+      "author": "Victor Hugo"
+    },
+    {
+      "text": "Sevgi, en güçlü ilaçtır.",
+      "category": "ask",
+      "author": "Paracelsus"
+    },
+    {
+      "text": "Aşk, hayatın anlamıdır.",
+      "category": "ask",
+      "author": "Konfüçyus"
+    },
+    {
+      "text": "Sevgi, karanlığı aydınlatan ışıktır.",
+      "category": "ask",
+      "author": "Martin Luther King Jr."
+    },
+    {
+      "text": "Aşk, iki kalbin bir atışta buluşmasıdır.",
+      "category": "ask",
+      "author": "Khalil Gibran"
+    },
+    {
+      "text": "Türk Milleti çalışkandır. Türk Milleti zekidir.",
+      "category": "ataturk",
+      "author": "Mustafa Kemal Atatürk"
+    },
+    {
+      "text": "Yurtta sulh, cihanda sulh.",
+      "category": "ataturk",
+      "author": "Mustafa Kemal Atatürk"
+    },
+    {
+      "text": "Bir milletin asker ordusu ne kadar güçlü olursa olsun, kazandığı zafer ne kadar yüce olursa olsun, bir millet ilim ordusuna sahip değilse, savaş meydanlarında kazanılmış zaferlerin sonu olacaktır.",
+      "category": "ataturk",
+      "author": "Mustafa Kemal Atatürk"
+    },
+    {
+      "text": "Cumhuriyet, fikir serbestliği taraftarıdır. Samimi ve meşru olmak şartıyla her fikre hürmet ederiz.",
+      "category": "ataturk",
+      "author": "Mustafa Kemal Atatürk"
+    },
+    {
+      "text": "Medeni olmayan insanlar, medeni olanların ayakları altında kalmaya mahkumdurlar.",
+      "category": "ataturk",
+      "author": "Mustafa Kemal Atatürk"
+    },
+    {
+      "text": "Gerçek dostlar yıldızlar gibidir, karanlık çökünce ortaya çıkarlar.",
+      "category": "dostluk",
+      "author": "Cicero"
+    },
+    {
+      "text": "Dostluk, iki insanın birbirinin kusurlarını hoş görmesiyle başlar.",
+      "category": "dostluk",
+      "author": "Voltaire"
+    },
+    {
+      "text": "İyi bir dost, yaralı bir kalbe merhem gibidir.",
+      "category": "dostluk",
+      "author": "İbn-i Sina"
+    },
+    {
+      "text": "Dostluk öyle bir altındır ki, hiç eskimez.",
+      "category": "dostluk",
+      "author": "Halil Cibran"
+    },
+    {
+      "text": "Gerçek dostluk sağlık gibidir, değeri onu kaybedince anlaşılır.",
+      "category": "dostluk",
+      "author": "Charles Caleb Colton"
+    },
+    {
+      "text": "Hayat, önünde eğilenlerden çok, ona direnenlerden korkar.",
+      "category": "hayat",
+      "author": "Seneca"
+    },
+    {
+      "text": "Hayat geriye bakarak anlaşılır, ileriye bakarak yaşanır.",
+      "category": "hayat",
+      "author": "Søren Kierkegaard"
+    },
+    {
+      "text": "Hayat bir bisiklete binmek gibidir. Dengenizi korumak için hareket halinde olmalısınız.",
+      "category": "hayat",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "Hayat, sahip olduklarınla değil, hissettiklerinle ölçülür.",
+      "category": "hayat",
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "text": "Hayat, her gün yeni bir sayfa açar.",
+      "category": "hayat",
+      "author": "Mark Twain"
+    },
+    {
+      "text": "Kendini bil, kendine gel, kendine dön.",
+      "category": "ozlu",
+      "author": "Mevlana"
+    },
+    {
+      "text": "Bilgelik, doğruyu bilmek değil, doğruyu yaşamaktır.",
+      "category": "ozlu",
+      "author": "Sokrates"
+    },
+    {
+      "text": "İnsan ancak kalbinin sesini dinlediğinde mutlu olur.",
+      "category": "ozlu",
+      "author": "Goethe"
+    },
+    {
+      "text": "Yaşamak için bir sebebiniz varsa, her şeye katlanabilirsiniz.",
+      "category": "ozlu",
+      "author": "Friedrich Nietzsche"
+    },
+    {
+      "text": "Düşünceleriniz olumlu olursa, başınıza gelen olaylar da olumlu olur.",
+      "category": "ozlu",
+      "author": "Konfüçyus"
     }
   ]
 }
