@@ -9,43 +9,43 @@
     {
       "id": "ask",
       "name": "Aşk Sözleri",
-      "image": "heart.circle.fill",
+      "image": "https://github.com/devbilgin/sozlerjson/blob/main/asksozleri.png?raw=true",
       "isActive": true
     },
     {
       "id": "ataturk", 
       "name": "Atatürk Sözleri",
-      "image": "star.circle.fill",
+      "image": "https://github.com/devbilgin/sozlerjson/blob/main/f5ff9299edbc77052dd6ec0baaaa02cf.jpg?raw=true",
       "isActive": true
     },
     {
       "id": "dostluk",
       "name": "Dostluk Sözleri",
-      "image": "person.2.circle.fill",
+      "image": "https://github.com/devbilgin/sozlerjson/blob/main/dostlj.png?raw=true",
       "isActive": true
     },
     {
       "id": "hayat",
       "name": "Hayat Sözleri",
-      "image": "leaf.circle.fill",
+      "image": "https://github.com/devbilgin/sozlerjson/blob/main/hayat.png?raw=true",
       "isActive": true
     },
     {
       "id": "ozlu",
       "name": "Özlü Sözler",
-      "image": "quote.bubble.fill",
+      "image": "https://github.com/devbilgin/sozlerjson/blob/main/create_a_life_logo_under_text_ozl_szler_cuwaa341ggjpm1a99bx5_0.png?raw=true",
       "isActive": true
     },
     {
       "id": "basari",
       "name": "Başarı Sözleri",
-      "image": "trophy.circle.fill",
+      "image": "https://github.com/devbilgin/sozlerjson/blob/main/create_a_success_logo_under_text_basari_sozleri_5hak1d60r19oo25lk8cv_0.png?raw=true",
       "isActive": true
     },
     {
       "id": "kitap",
       "name": "Kitap Sözleri",
-      "image": "book.closed.circle.fill",
+      "image": "https://github.com/devbilgin/sozlerjson/blob/main/create_a_book_logo_under_text_kitap_daurempdid47kv0udp2r_3.png?raw=true",
       "isActive": true
     }
   ],
