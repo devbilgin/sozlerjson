@@ -3,7 +3,7 @@
     {
       "id": "motivasyon",
       "name": "Motivasyon Sözleri", 
-      "image": "flame.circle.fill",
+      "image": "https://raw.githubusercontent.com/devbilgin/sozlerjson/refs/heads/main/motivation.png",
       "isActive": true
     },
     {
